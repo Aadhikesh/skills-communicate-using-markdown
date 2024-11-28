@@ -6,3 +6,6 @@
 ```javascript
 let name="Aadhikesh";
 ```
+- [x] Added headings
+- [x] Added an image
+- [ ] Unchecked task list
